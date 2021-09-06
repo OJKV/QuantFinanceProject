@@ -1,11 +1,11 @@
 ## Stock and option data analytics
-#### In current project, I built a program which could be employed by quants in analysing the stocks and options.  
+#### In current project, I have built a program which could be employed by quants in analysing the stocks and options.  
 
 #### For Stock data analysis, program performs following tasks:
 *	Retrieving data of chosen stock through pandas DataReader, and plotting it
 *	Gives a  table with statistical analysis and tests of the stock(mean, st.dev, skewness, kurtosis) and plot mean return, volatility and correlation graphs
 *	Plotting Moving Average crossover and Stochastic Oscillator to identify closest trading signal. For a short MA we use n=20, for a long n=50.
-*	Check profitability of MA crossover and Stochastic oscillator strategies for a current stock. For this reason P&L and Sharpe Ratio will be used as measures of profitability.
+*	Check profitability of MA crossover and Stochastic oscillator strategies for a current stock. For this reason P&L and Sharpe Ratio are used as measures of profitability.
 
 #### Along with Stock analysis, our program  also conducts analysis of Option on the same stock. We employ assumptions of constant *risk free rate (r)* =0.05, *maturity (T)*, 1 year and *Strike price (K)* 100.  Following tasks are performed:
 *	Computation of option price with Black-Scholes model and plot graphs with respect to parameters
@@ -36,7 +36,7 @@ For Option Analysis:
 #### All table data are exported in Excel file using Pandas’ ExcelWriter feature.
 
 
-#### Here are the output plots
+### Here you can chekc the output plots:
 ![1](https://user-images.githubusercontent.com/59889139/132145503-2f79d2c6-3713-4127-a39c-b9ccf14c7eb3.png)
 ![2](https://user-images.githubusercontent.com/59889139/132145504-3cfc6038-f1f9-46b0-aede-63b49b9620c2.png)
 ![3](https://user-images.githubusercontent.com/59889139/132145505-ce77475c-91dc-4351-9b1e-baa75b9697e9.png)
