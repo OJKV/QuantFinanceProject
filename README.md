@@ -36,7 +36,7 @@ For Option Analysis:
 #### All table data are exported in Excel file using Pandas’ ExcelWriter feature.
 
 
-### Here you can chekc the output plots:
+### Here you can check the output plots:
 ![1](https://user-images.githubusercontent.com/59889139/132145503-2f79d2c6-3713-4127-a39c-b9ccf14c7eb3.png)
 ![2](https://user-images.githubusercontent.com/59889139/132145504-3cfc6038-f1f9-46b0-aede-63b49b9620c2.png)
 ![3](https://user-images.githubusercontent.com/59889139/132145505-ce77475c-91dc-4351-9b1e-baa75b9697e9.png)
