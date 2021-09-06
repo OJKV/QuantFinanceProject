@@ -1,4 +1,4 @@
-## Stock and option data analytics
+## Stock and option data analysis
 #### In current project, I have built a program which could be employed by quants in analysing the stocks and options.  
 
 #### For Stock data analysis, program performs following tasks:
